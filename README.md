@@ -25,7 +25,7 @@ Bullet list of what the project does.
 
 This is for _non-technical readers_.
 
-## Prerequisites
+## Prerequisitos
 
 These should be **identical in almost all repos**:
 
