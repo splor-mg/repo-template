@@ -13,7 +13,7 @@ dependencies = [
 
 
 [tool.repo-template]
-upstream = 'https://github.com/ziguraty/repo-template.git'
+upstream = 'https://github.com/splor-mg/repo-template.git'
 
 
 [build-system]
